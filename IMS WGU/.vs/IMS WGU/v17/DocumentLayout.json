@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\outsourcedpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\outsourcedpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\modify product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\modify part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\modify part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\main form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\inhousepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\inhousepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\add product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\add product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|c:\\users\\ryker\\source\\repos\\ims wgu\\ims wgu\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|C:\\Users\\ryker\\source\\repos\\IMS WGU\\ims wgu\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BCB9636-8E64-49EA-890C-BE5069011E29}|IMS WGU\\IMS WGU.csproj|solutionrelative:ims wgu\\add part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Modify Product.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Modify Product.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Modify Product.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Modify Product.cs [Design]",
+              "RelativeToolTip": "IMS WGU\\Modify Product.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:26:15.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Main Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Main Form.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Main Form.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Main Form.cs [Design]",
+              "RelativeToolTip": "IMS WGU\\Main Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T22:24:46.04Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Program.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Program.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Program.cs",
+              "RelativeToolTip": "IMS WGU\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:58:31.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Product.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Product.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Product.cs",
+              "RelativeToolTip": "IMS WGU\\Product.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA7wCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:10:00.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Part.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Part.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Part.cs",
+              "RelativeToolTip": "IMS WGU\\Part.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T21:05:53.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OutsourcedPart.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\OutsourcedPart.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\OutsourcedPart.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\OutsourcedPart.cs",
+              "RelativeToolTip": "IMS WGU\\OutsourcedPart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:58:23.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modify Product.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Modify Product.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Modify Product.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Modify Product.cs",
+              "RelativeToolTip": "IMS WGU\\Modify Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:57:18.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Modify Part.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Modify Part.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Modify Part.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Modify Part.cs",
+              "RelativeToolTip": "IMS WGU\\Modify Part.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:56:49.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InHousePart.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\InHousePart.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\InHousePart.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\InHousePart.cs",
+              "RelativeToolTip": "IMS WGU\\InHousePart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T15:07:45.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Inventory.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Inventory.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Inventory.cs",
+              "RelativeToolTip": "IMS WGU\\Inventory.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAuwFIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:41:44.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Main Form.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Main Form.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Main Form.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Main Form.cs",
+              "RelativeToolTip": "IMS WGU\\Main Form.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAYwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:14:51.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add Product.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Add Product.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Add Product.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Add Product.cs",
+              "RelativeToolTip": "IMS WGU\\Add Product.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAA0wCAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T22:12:55.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Add Part.cs",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Add Part.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Add Part.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Add Part.cs",
+              "RelativeToolTip": "IMS WGU\\Add Part.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:53:47.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Add Part.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Add Part.cs",
+              "RelativeDocumentMoniker": "IMS WGU\\Add Part.cs",
+              "ToolTip": "C:\\Users\\ryker\\source\\repos\\IMS WGU\\IMS WGU\\Add Part.cs [Design]",
+              "RelativeToolTip": "IMS WGU\\Add Part.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T16:53:42.904Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

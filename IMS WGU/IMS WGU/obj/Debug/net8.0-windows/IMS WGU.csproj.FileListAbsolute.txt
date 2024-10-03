@@ -1,0 +1,20 @@
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\bin\Debug\net8.0-windows\IMS WGU.exe
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\bin\Debug\net8.0-windows\IMS WGU.deps.json
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\bin\Debug\net8.0-windows\IMS WGU.runtimeconfig.json
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\bin\Debug\net8.0-windows\IMS WGU.dll
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\bin\Debug\net8.0-windows\IMS WGU.pdb
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.csproj.GenerateResource.cache
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.AssemblyInfoInputs.cache
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.AssemblyInfo.cs
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.csproj.CoreCompileInputs.cache
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.dll
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\refint\IMS WGU.dll
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.pdb
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMS WGU.genruntimeconfig.cache
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\ref\IMS WGU.dll
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMSWGU.Add_Part.resources
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMSWGU.Add_Product.resources
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMSWGU.MainForm.resources
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMSWGU.Modify_Part.resources
+C:\Users\ryker\source\repos\IMS WGU\IMS WGU\obj\Debug\net8.0-windows\IMSWGU.Modify_Product.resources
